@@ -1,0 +1,35 @@
+Cython==3.0.10
+decorator==4.4.2
+docstring_parser==0.16
+docutils==0.18.1
+ipykernel==5.5.6
+ipython==7.34.0
+jsonpickle==3.0.4
+jupyter-server==1.24.0
+kaggle==1.5.16
+Markdown==3.6
+matplotlib==3.7.1
+matplotlib-inline==0.1.7
+pickleshare==0.7.5
+python-utils==3.8.2
+requirements-parser==0.9.0
+scikit-image==0.19.3
+scikit-learn==1.2.2
+tensorboard==2.15.2
+tensorboard-data-server==0.7.2
+tensorflow @ https://storage.googleapis.com/colab-tf-builds-public-09h6ksrfwbb9g9xv/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a2ec79931350b378c1ef300ca836b52a55751acb71a433582508a07f0de57c42
+tensorflow-datasets==4.9.4
+tensorflow-estimator==2.15.0
+tensorflow-gcs-config==2.15.0
+tensorflow-hub==0.16.1
+tensorflow-io-gcs-filesystem==0.36.0
+tensorflow-metadata==1.14.0
+tensorflow-probability==0.23.0
+torch @ https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=1adf430f01ff649c848ac021785e18007b0714fdde68e4e65bd0c640bf3fb8e1
+torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=23f6236429e2bf676b820e8e7221a1d58aaf908bff2ba2665aa852df71a97961
+torchdata==0.7.1
+torchsummary==1.5.1
+torchtext==0.17.1
+torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.17.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=27af47915f6e762c1d44e58e8088d22ac97445668f9f793524032b2baf4f34bd
+tqdm==4.66.2
+zipp==3.18.1
