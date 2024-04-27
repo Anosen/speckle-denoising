@@ -34,6 +34,7 @@ class Block1(nn.Module):
         x = self.dropout(x)
         x = self.batch_renorm(x)
         return x
+
 class Block2(nn.Module):
     def __init__(self, in_channels, out_channels):
         super(Block2, self).__init__()
