@@ -13,7 +13,6 @@ Source: Karaoğlu, O., Bilge, H. Ş., & Uluer, İ. (2022). Removal of speckle no
 Data: 
 [Kaggle Ultrasound Nerve Segmentation](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/code)
 
-
 # Before Starting
 1. Accept: [Kaggle Competition Rules](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/rules).
 
@@ -36,4 +35,10 @@ Could not load library libcudnn_cnn_infer.so.8. Error: libcuda.so: cannot open s
 Then run the following to solve:
 ```
 $ export LD_LIBRARY_PATH=/usr/lib/wsl/lib:$LD_LIBRARY_PATH
+```
+
+# How to start
+Run:
+```
+python main.py
 ```
