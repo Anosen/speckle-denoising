@@ -9,7 +9,7 @@ This repository contains an implementation of three models [1]:
 - BatchRenormalization U-Net (Br-U-Net)
 
 ## References:
-[1] Karaoğlu, O., Bilge, H. Ş., & Uluer, İ. (2022). Removal of speckle noises from ultrasound images using five different deep learning networks. Engineering Science and Technology an International Journal, 29(101030), 101030. [doi:10.1016/j.jestch.2021.06.010](doi:10.1016/j.jestch.2021.06.010).
+[1] Karaoğlu, O., Bilge, H. Ş., & Uluer, İ. (2022). Removal of speckle noises from ultrasound images using five different deep learning networks. Engineering Science and Technology an International Journal, 29(101030), 101030. [doi:10.1016/j.jestch.2021.06.010](https://doi.org/10.1016/j.jestch.2021.06.010).
 
 ## Data: 
 [Kaggle Ultrasound Nerve Segmentation](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/code)
