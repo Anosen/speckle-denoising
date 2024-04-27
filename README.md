@@ -1,4 +1,5 @@
 ![Denoising example on unseen data](https://drive.google.com/uc?id=1gsppC5icp9r_g6latkOu4ta5nuNk9VI7)
+*Denoising example on unseen data (Di-Conv-AE-Net)*
 
 # Contents
 This repository contains an implementation of three models:
