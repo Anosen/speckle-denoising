@@ -3,14 +3,15 @@
 | *Denoising example on unseen data (Di-Conv-AE-Net)* |
 
 # Contents
-This repository contains an implementation of three models:
+This repository contains an implementation of three models [1]:
 - Dilated Convolution Autoencoder Denoising Network (Di-Conv-AE-Net)
 - Denoising U-Shaped Net (D-U-Net)
 - BatchRenormalization U-Net (Br-U-Net)
 
-Source: Karaoğlu, O., Bilge, H. Ş., & Uluer, İ. (2022). Removal of speckle noises from ultrasound images using five different deep learning networks. Engineering Science and Technology an International Journal, 29(101030), 101030. doi:10.1016/j.jestch.2021.06.010.
+## References:
+[1] Karaoğlu, O., Bilge, H. Ş., & Uluer, İ. (2022). Removal of speckle noises from ultrasound images using five different deep learning networks. Engineering Science and Technology an International Journal, 29(101030), 101030. [doi:10.1016/j.jestch.2021.06.010](doi:10.1016/j.jestch.2021.06.010).
 
-Data: 
+## Data: 
 [Kaggle Ultrasound Nerve Segmentation](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/code)
 
 # Before Starting
@@ -40,5 +41,5 @@ $ export LD_LIBRARY_PATH=/usr/lib/wsl/lib:$LD_LIBRARY_PATH
 # How to start
 Run:
 ```
-python main.py
+$ python main.py
 ```
